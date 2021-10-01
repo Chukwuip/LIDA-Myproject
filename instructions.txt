@@ -1,0 +1,6 @@
+*trying something new
+* in this new space of vim
+*it is actually a text file
+*but funny enough it is written as txt
+* this is a continuation of what I was doing
+*therefore, this is a newer version
